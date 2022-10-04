@@ -7,3 +7,9 @@
 ```
 conda create -n envname python=3.8 -y
 ```
+
+### To initializing the git we will use this command
+
+```
+git init
+```
