@@ -1,6 +1,8 @@
-## This is the Git Tutorials By Harshal
+## This is the amazing Git Tutorials By Harshal
 
 ## We will learn git
+
+## This change are by developer2
 
 ### Create a new environment for every new project to done 
 
